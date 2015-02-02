@@ -5,7 +5,7 @@ This web project has the following setup:
     * app.js - the top-level config script used by index.html
     * app/ - the directory to store project-specific scripts.
     * lib/ - the directory to hold third party scripts.
-* tools/ - the build tools to optimize the project.
+* tools/ - the build tools to optimize the project. rajmohan
 
 To optimize, run:
 

@@ -9,7 +9,7 @@
 <body>
     <h2>Todo</h2>
     <div ng-controller="firstcontroller">
-      <span>{{remaining()}} of {{todos.length}} remaining</span>
+      <span stylle="">{{remaining()}} of {{todos.length}} remaining</span>
       [ <a href="" ng-click="archive()">archive</a> ]
       <ul class="unstyled">
         <li ng-repeat="todo in todos">
